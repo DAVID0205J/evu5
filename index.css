@@ -1,0 +1,230 @@
+.format{
+    max-width: 414px;
+    max-height: 880px;
+    overflow: hidden;
+    width: 100%;
+
+
+}
+.header{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 22rem;
+    margin-top: 4rem
+
+    
+}
+.titulo{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 30;
+    font-size: 16px;
+    line-height: 23px;
+
+}
+.rectangulo{
+    margin-left: 3rem;
+    margin-top: 6rem;
+    background-color: black;
+    width: 35rem;
+    height: 10rem;
+    border-radius: 3rem;
+    display: flex;
+}
+.cir{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    width: 10rem;
+    height:10rem;
+    border-radius: 5rem;
+    margin-left: 2rem;
+}
+.nombre{
+
+    width: 15rem;
+    height: 2rem;
+    font-size:2rem;
+    color: aliceblue;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    font-weight: 300;
+}
+.work{
+    width: 10rem;
+    height: 2rem;
+    font-size:1.5rem;
+    display: flex;
+    color: aliceblue;
+    margin-top: 6rem;
+    margin-left: -15rem;
+    font-weight: 300;
+    color: aliceblue;
+}
+.edit{
+    margin-top: 3.5rem;
+    margin-left: 4rem;
+
+    opacity: 0.8;
+    border: 0.787879px solid #FFFFFF;
+    width: 7rem;
+    height: 3rem;
+    border-radius:1rem;
+    background-color: #FFFFFF;
+    color: #4c4c4caf; 
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size:2rem;
+    line-height: 2.7rem;
+    
+}
+.p_2{
+    margin-top: 4rem;
+    width: 43rem;
+    height: 45rem;
+}
+.icons{
+    width: 20rem;
+    height: 45rem;
+    
+}
+.user{
+    position: relative;
+    top: 6rem;
+    height: 6rem;
+    width: 30rem;
+    margin-left: 6rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    border-bottom: 0.2rem solid black;
+  
+}
+.seg{
+    position: relative;
+    top: 10rem;
+    height: 6rem;
+    width: 30rem;
+    margin-left: 6rem;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 0.2rem solid black;
+     
+}
+.chat{
+    position: relative;
+    top: 14rem;
+    height: 6rem;
+    width: 30rem;
+    margin-left: 6rem;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 0.2rem solid black;
+}
+.int{
+    position: relative;
+    top: 18rem;
+    height: 6rem;
+    width: 30rem;
+    margin-left: 6rem;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 0.2rem solid black;
+}
+.text_1{
+    position: relative;
+    display: flex;
+    left: 4rem;
+    top: 2.5rem;
+
+    font-size: 1.4rem;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    
+}
+.text_2{
+    position: relative;
+    display: flex;
+    left: 4rem;
+    top: 2.5rem;
+
+    font-size: 1.4rem;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    
+}
+.text_3{
+    position: relative;
+    display: flex;
+    left: 4rem;
+    top: 2.5rem;
+
+    font-size: 1.4rem;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    
+}
+.text_4{
+    position: relative;
+    display: flex;
+    left: 4rem;
+    top: 2.5rem;
+
+    font-size: 1.4rem;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    
+}
+.p_3{
+    position: relative;
+    left: 3.5rem;
+    width: 35rem;
+    height: 7rem;
+    border-radius: 2rem;
+    display: flex;
+    background-color: black;
+}
+.arrow_2{
+    position: relative;
+    top: 0.5rem;
+    left: 1.5rem;
+    justify-content: left;
+    display: flex;
+
+}
+.out{
+    position: relative;
+    top: 2rem;
+    left: 19rem;
+    color: aliceblue;
+    display: flex;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: aliceblue;
+
+}
+
